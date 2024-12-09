@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Caio Henrique
+#  Caio Henrique
 
 **`Desenvolvedor FullStack`**
 
