@@ -106,7 +106,7 @@ Me chamo Caio Henrique, tenho 24 anos e sou natural de Rondônia.  Atualmente, e
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="100" 
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=caiohenriquefranca&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -114,7 +114,7 @@ Me chamo Caio Henrique, tenho 24 anos e sou natural de Rondônia.  Atualmente, e
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="100" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenriquefranca&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
