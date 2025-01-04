@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Caio Henrique, tenho 24 anos e sou natural de Rondônia.  Atualmente, estou cursando Ciência da Computação na DESCOMPLICA. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Caio Henrique](https://www.youtube.com/@caiohenriquefrancavalentim)", onde ensino a criar projetos.
+Me chamo Caio Henrique, tenho 24 anos.  Atualmente, estou cursando Ciência da Computação. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Caio Henrique](https://www.youtube.com/@caiohenriquefrancavalentim)", onde ensino a criar projetos.
 
 ---
 
