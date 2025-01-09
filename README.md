@@ -76,6 +76,14 @@ Sou estudante de Ciência da Computação e tenho uma grande paixão por tecnolo
 />
 <img 
     align="left" 
+    alt="Django"
+    title="Django" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
